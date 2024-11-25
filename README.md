@@ -9,20 +9,18 @@ This report examines the network of healthcare facilities that provide breast ca
 Network Characterization
 
 1. Degree Distribution
-
-	•	Cancer Centers:
-	•	Highest Degree: Urban regions, such as New York and California, have the highest mean degrees due to centralized care networks.
-	•	Outliers: Regions with centralized hubs like MD Anderson in Texas or Sloan Kettering in New York show significantly higher degrees.
-	•	Primary Care Providers (PCPs):
-	•	PCPs in rural areas often rely on a limited number of referral centers, resulting in lower mean degrees compared to urban counterparts.
+- Cancer Centers:
+- Highest Degree: Urban regions, such as New York and California, have the highest mean degrees due to centralized care networks.
+- Outliers: Regions with centralized hubs like MD Anderson in Texas or Sloan Kettering in New York show significantly higher degrees.
+- Primary Care Providers (PCPs):
+- PCPs in rural areas often rely on a limited number of referral centers, resulting in lower mean degrees compared to urban counterparts.
 
 2. Shortest Path Analysis
-
-	•	PCPs → Cancer Centers:
-	•	Shortest paths are lowest in densely populated areas like the Northeast and urban West Coast.
-	•	Longest paths are found in rural Midwest and Southern regions.
-	•	Cancer Centers → Specialized Hospitals:
-	•	Urban hubs have shorter paths (e.g., New York, California) compared to regions with sparse specialized facilities, like the Mountain West.
+- PCPs → Cancer Centers:
+- Shortest paths are lowest in densely populated areas like the Northeast and urban West Coast.
+- Longest paths are found in rural Midwest and Southern regions.
+- Cancer Centers → Specialized Hospitals:
+- Urban hubs have shorter paths (e.g., New York, California) compared to regions with sparse specialized facilities, like the Mountain West.
 
 Simulated Stress Scenarios
 
