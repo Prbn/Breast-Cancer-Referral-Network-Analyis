@@ -37,7 +37,7 @@ Results:
 - At 0.05% population load, rural states like Montana and Wyoming see up to 70% of PCPs isolated due to limited referral options.
 - By 0.5%, nearly all PCPs in rural areas lose connectivity.
 
-## Summaries
+## Summary
 
 Degree Distribution by Region
 
